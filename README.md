@@ -30,12 +30,13 @@
   I realized halfway through the project that getting all the links was way better than iterating between the parent and children back and forth.
   *Aclimação -> CEP 01526-000* 
   *Aclimação -> Next Zip code* 
+  
   The links basically stay the same only changing a few parts:
-  - - https://cepbrasil.org/sao-paulo/sao-paulo/agua-branca
+  - https://cepbrasil.org/sao-paulo/sao-paulo/agua-branca
      - https://cepbrasil.org/sao-paulo/sao-paulo/agua-branca/05001000
   - https://cepbrasil.org/sao-paulo/sao-paulo/aclimacao
      - https://cepbrasil.org/sao-paulo/sao-paulo/aclimacao/01526000
-  . 
+      
   first I got all the hyperlinks 
   containing the neighborhoods' streets such as * https://cepbrasil.org/sao-paulo/sao-paulo/agua-fria/02330970 *, and export it to an Excel file.
   Second I read the URLs from the Excel file and used them as links to get to the browser. 
