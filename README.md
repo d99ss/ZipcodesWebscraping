@@ -33,9 +33,9 @@
   
   The links basically stay the same only changing a few parts:
   - https://cepbrasil.org/sao-paulo/sao-paulo/agua-branca
-   - https://cepbrasil.org/sao-paulo/sao-paulo/agua-branca/05001000
+     - https://cepbrasil.org/sao-paulo/sao-paulo/agua-branca/05001000
   - https://cepbrasil.org/sao-paulo/sao-paulo/aclimacao
-   - https://cepbrasil.org/sao-paulo/sao-paulo/aclimacao/01526000
+     - https://cepbrasil.org/sao-paulo/sao-paulo/aclimacao/01526000
       
   First I got all the hyperlinks 
   containing the neighborhoods' streets such as * https://cepbrasil.org/sao-paulo/sao-paulo/agua-fria/02330970 *, and export it to an Excel file.
