@@ -18,6 +18,7 @@
   At the time of this writing here is the current structure:
   You have the parents' hyperlinks with the names of the neighborhoods and 
   Inside each hyperlink, there are the neighborhoods' streets or the children's.
+</p>
   
     - Aclimação
         - CEP 01526-000 - Rua Bueno de Andrade ...
