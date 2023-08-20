@@ -8,20 +8,16 @@
 
 <p align="center">
   Be aware the structure can change over time.
-  You have the hyperlinks with the names of the neighborhoods:
+  You have the parents' hyperlinks with the names of the neighborhoods and 
+  inside each hyperlink, there are the neighborhoods' streets or the children's.
   
     - Aclimação
-      - CEP 01526-000 - Rua Bueno de Andrade 
+        - CEP 01526-000 - Rua Bueno de Andrade ...
     - Água Branca
+        - CEP 05001-000 - Avenida Francisco Matarazzo ...
     - Água fria
-    
-  Inside each hyperlink, there are the neighborhoods' streets
-    - Aclimação
-    ...
-    - Água Branca
-    - CEP 05001-000 - Avenida Francisco Matarazzo ...
-    - Água fria
-    - CEP 02330-970 - Avenida Nova Cantareira, 942 ...
+        - CEP 02330-970 - Avenida Nova Cantareira, 942 ...
+      
   
   Since I want it to get all the neighborhoods instead of looping it through the neighborhood names back and forth, first I got all the hyperlinks 
   containing the neighborhoods' streets such as * https://cepbrasil.org/sao-paulo/sao-paulo/agua-fria/02330970 *, and export it to an Excel file.
