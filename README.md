@@ -11,12 +11,13 @@
   You have the hyperlinks with the names of the neighborhoods:
   
     - Aclimação
+      - CEP 01526-000 - Rua Bueno de Andrade 
     - Água Branca
     - Água fria
     
   Inside each hyperlink, there are the neighborhoods' streets
     - Aclimação
-    - CEP 01526-000 - Rua Bueno de Andrade ...
+    ...
     - Água Branca
     - CEP 05001-000 - Avenida Francisco Matarazzo ...
     - Água fria
