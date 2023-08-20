@@ -29,6 +29,7 @@
   
   I realized halfway through the project that getting all the links was way better than iterating between the parent and children back and forth.
   This step was not only efficient but prone to errors.
+  
   *Aclimação -> CEP 01526-000* 
   *Aclimação -> Next Zip code* 
   
