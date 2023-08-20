@@ -5,7 +5,8 @@
 <p align="center"></p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,pandas,python,c,vim" />
+    <img src="https://skillicons.dev/icons?i=Selenium" />
+    :panda_face:
   </a>
 </p>
 
