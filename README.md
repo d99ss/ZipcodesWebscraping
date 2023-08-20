@@ -5,7 +5,7 @@
 <p align="center"></p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=Selenium" />
+    <img src="https://skillicons.dev/icons?i=selenium" />
     :panda_face:
   </a>
 </p>
