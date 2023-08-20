@@ -28,6 +28,7 @@
       
   
   I realized halfway through the project that getting all the links was way better than iterating between the parent and children back and forth.
+  This step was not only efficient but prone to errors.
   *Aclimação -> CEP 01526-000* 
   *Aclimação -> Next Zip code* 
   
@@ -38,7 +39,7 @@
      - https://cepbrasil.org/sao-paulo/sao-paulo/aclimacao/01526000
       
   First I got all the hyperlinks 
-  containing the neighborhoods' streets such as * https://cepbrasil.org/sao-paulo/sao-paulo/agua-fria/02330970 *, and export it to an Excel file.
+  containing the neighborhoods' streets such as * https://cepbrasil.org/sao-paulo/sao-paulo/agua-fria/02330970 *, and exported it to an Excel file.
   Second I read the URLs from the Excel file and used them as links to get to the browser. 
   Using this approach of entering each page that you want to webscrape you avoid issues such as TimeOutException or Netwoork error. 
   The code can easily be modified to get Brazil's other cities/neighborhoods.
