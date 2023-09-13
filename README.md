@@ -1,5 +1,5 @@
 # Project description :spider_web:
-<p align="center">The Goal of this project was to get all of the data available including zip codes, neighborhoods, latitudes, longitudes so forth so on of the City of São Paulo from the <a href="https://cepbrasil.org/">🔗 Cep Brasil</a>, and export it to an Excel file. There are a lot of websites containing this data but I chose this one because I deemed it more reliable, please be aware It is not an official database, the real database is provided by the Correios with a price of **($Thanks Correios$)** since it is public information I chose not to pay it and do the old and good web scrapping, so therefore it should have zip codes that no longer work or new ones added to the official base that are not in this one, also bear in mind that values such lat and lon are not accurately right.</p>
+<p align="center">The Goal of this project was to get all of the data available including zip codes, neighborhoods, latitudes, longitudes, and so forth so on of the City of São Paulo from the <a href="https://cepbrasil.org/">🔗 Cep Brasil</a>, and export it to an Excel file. There are a lot of websites containing this data but I chose this one because I deemed it more reliable, Please be aware It is not an official database, the real database is provided by the Correios with a price of **($Thanks Correios$)** since it is public information I chose not to pay it and do the old and good web scrapping, so therefore it should have zip codes that no longer work or new ones added to the official base that are not in this one, also bear in mind that values such lat and lon are not accurately right.</p>
 
 ## Library :books:
 <p align="center">
@@ -46,4 +46,6 @@
   Using this approach of entering each page that you want to webscrape you avoid issues such as TimeOutException or Netwoork error. 
   The code can easily be modified to get Brazil's other cities/neighborhoods.
 </p>
+
+<p align="center">You can find the data scrapped on my <a href="https://www.kaggle.com/datasets/mrlogicalwolverine/sp-data">**Kaggle**</a>.</p>
 
