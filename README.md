@@ -45,7 +45,7 @@
   Second I read the URLs from the Excel file and used them as links to get to the browser. 
   Using this approach of entering each page that you want to webscrape you avoid issues such as TimeOutException or Netwoork error. 
   The code can easily be modified to get Brazil's other cities/neighborhoods.
+  You can find the data scrapped on my <a href="https://www.kaggle.com/datasets/mrlogicalwolverine/sp-data" target="_blank">**~~Kaggle~~**</a>.
 </p>
 
-<p align="center">You can find the data scrapped on my <a href="https://www.kaggle.com/datasets/mrlogicalwolverine/sp-data">**Kaggle**</a>.</p>
 
